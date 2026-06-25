@@ -1,0 +1,13 @@
+# Ignore dataset
+Fruits_Vegetabless/
+
+# Python cache
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Log files
+*.log
